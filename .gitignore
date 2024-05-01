@@ -1,6 +1,6 @@
 # arquivos secretos
-App/archives/*.csv
-App/archives/*.json
+*.json
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
