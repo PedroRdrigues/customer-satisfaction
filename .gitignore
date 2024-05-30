@@ -1,6 +1,7 @@
 # arquivos secretos
 security/
 archives/
+report/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
